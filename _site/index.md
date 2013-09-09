@@ -12,7 +12,7 @@ Computer codes that can perform 3D anisotropic acoustic and elastic full-wavefor
 
 Commercial access to these programs is available through membership of the *FULLWAVE Game Changer research consortium*. Their application to academic problems can be arranged through collaboration with Imperial College London.
 
-* [Recent publications](http://www.imperial.ac.uk/AP/faces/pages/read/Publications.jsp?person=m.warner&_adf.ctrl-state=17nr2sa1b1_7&_afrLoop=956324163941718&_afrWindowMode=0&Adf-Window-Id=w1)
+* [Recent publications](publications.html)
 * [Contact us](contacts.html)
 
 ##Fullwave Game Changer
