@@ -1,27 +1,33 @@
 <link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 
-<div id="header_wrap" class="outer">
-  <header class="inner">
-    <h1 id="project_title">FULLWAVE</h1>
-    <h2 id="project_tagline">Anisotropic 3D full-waveform inversion</h2>
-  </header>
-</div>
+#FULLWAVE
 
-Full-wavefield tomography, or full-wavefield inversion (FWI) as it is otherwise known, is a technique for seismic depth imaging, for velocity-model building, and for obtaining models of physical properties in the sub-surface at high spatial resolution. The technique has recently risen to prominence after it has been demonstrated to produce spectacular improvements in PSDM beneath heterogeneous overburden.
+Full-waveform inversion (FWI) is a computational technique for analysing seismic data that can build high-resolution high-fidelity three-dimensional quantitative models of physical properties in the subsurface.  FWI is beginning to be widely used within the oil and gas industry, and it has potential to image the Earth on a wide variety of scales. The technique has recently risen to prominence after it has been demonstrated to produce spectacular improvements in pre-stack depth-migrated seismic images beneath heterogeneous overburden.
 
-<img src="http://www3.imperial.ac.uk/pls/portallive/docs/1/72257905.PNG"
-alt="Seismic inversion" style="width: 500px;"/>
+<img src="images/res-slice.gif" alt="Reservoir cross section" style="width: 500px;"/>
 
-##General
-Here you can find a summary of the scientific research that lead to FULLWAVE.
+##Anisotropic 3D full-waveform inversion
 
-* [Publications](http://www.imperial.ac.uk/AP/faces/pages/read/Publications.jsp?person=m.warner&_adf.ctrl-state=17nr2sa1b1_7&_afrLoop=956324163941718&_afrWindowMode=0&Adf-Window-Id=w1)
+Computer codes that can perform 3D anisotropic acoustic and elastic full-waveform inversion on large field datasets have been developed at Imperial College London. These codes are designed to run on large parallel clusters of multi-core compute nodes.
 
-## Fullwave Game Changer
-The FULLWAVE research consortium that was among the first to demonstrate full-wavefield tomography in 3D on field datasets. The group have developed computer codes for 3D FWI using acoustic, viscoacoustic, TTI anisotropic, and elastic wave equations, and are extending these techniques to undertake joint seismic-CSEM inversion.
+Commercial access to these programs is available through membership of the *FULLWAVE Game Changer research consortium*. Their application to academic problems can be arranged through collaboration with Imperial College London.
 
-Here FULLWAVE consortium members can access details of upcoming meetings, download presentations and the software. If are interested in becoming a consortium member then please [contact us](contacts.html).
+* [Recent publications](http://www.imperial.ac.uk/AP/faces/pages/read/Publications.jsp?person=m.warner&_adf.ctrl-state=17nr2sa1b1_7&_afrLoop=956324163941718&_afrWindowMode=0&Adf-Window-Id=w1)
+* [Contact us](contacts.html)
 
-* [Meetings]()
-* [Presentations]()
+##Fullwave Game Changer
+
+The FULLWAVE research consortium was among the first to demonstrate practical full-waveform inversion in 3D on field datasets. These early codes were developed in the frequency domain.
+
+The FULLWAVE III research consortium developed 3D TTI anisotropic FWI codes that operate in the time domain. This code has been commercialised within a number of companies.
+
+The current FULLWAVE Game Changer research consortium has developed a fully anisotropic 3D elastic FWI code, and is developing FWI techniques that do not require low frequencies, accurate starting models, or very-large source-receiver offsets.
+
+The links below give **consortium members** access to download software, documentation, presentations and details of past and upcoming meetings.
+
 * [Software]()
+* [Documentation]()
+* [Presentations]()
+* [Meetings]()
+
+Consortium members can sign up for access to the website [here]().
