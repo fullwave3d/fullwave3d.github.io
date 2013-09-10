@@ -7,15 +7,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
 
-<div class="wrapper">
-  <header>
+<header>
   <h1>FULLWAVE</h1>
   <p>Full-waveform inversion</p>
 
   <p class="view"><a href="https://github.com/fullwave3d">View My GitHub Profile</a></p>
 
-  </header>
-  <section>
+</header>
+
+<section>
 
 #FULLWAVE
 ##Contact us
@@ -34,8 +34,9 @@ Details of how to travel to Imperial are
 A map of the campus can be downloaded [here](https://workspace.imperial.ac.uk/campusinfo/public/sthkencampus.pdf).  We are located in the Royal School of Mines, building 10, with entrance on Prince Consort Road.
 
 </section>
+
 <footer>
  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 </footer>
-</div>
+
 <script src="javascripts/scale.fix.js"></script>
