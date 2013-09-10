@@ -17,7 +17,6 @@
 
 <section>
 
-#FULLWAVE
 ##Contact us
 For details of how to join the research consortium or to discuss use of the codes to invert academic datasets, please contact:
 
